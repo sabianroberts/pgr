@@ -8,6 +8,7 @@ html {
 
 .top-main {
 	text-align: center;
+	text-transform: uppercase;
 }
 
 .menu {
@@ -23,7 +24,8 @@ html {
     transition: 0.2s;
 	text-decoration: none;
 	text-shadow: 2px 2px black;
-}.menu:hover {
+}
+.menu:hover {
     color: #6C0001;
 	font-size: 175%;
 	transition: 0.5s;
